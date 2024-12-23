@@ -1,0 +1,6 @@
+@SalaryAdvance_HostAddress = http://localhost:5219
+
+GET {{SalaryAdvance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
